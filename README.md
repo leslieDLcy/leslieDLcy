@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 
 ## Hi there 👋 I'm Leslie Yu Chen
 
-🔭 A research associate at Institute for Risk and Uncertainty, University of Liverpool
+🔭 A postdoctoral research associate at *Institute for Risk and Uncertainty*, *University of Liverpool*
 
-🌱 I’m researching at the intersection of uncertainty quantification and deep learning with a focus on probability bounds analysis
+🌱 I’m researching at the intersection of *uncertainty quantification* and *deep learning* with a focus on probability bounds analysis
+
+:jack_o_lantern: A Bayesianist specialised in computational statistics
 
 ⚡ Find more about me on my [personal website](https://yuchenakaleslie.github.io/)
+
+:loop: I'm currently working on the project [PyUncertainNumber](https://github.com/leslieDLcy/PyUncertainNumber). See more details in our [paper](https://proceedings.scipy.org/previews/01991ec4-7f40-7fd6-ad08-d258440c9963?preview=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2pvdXJuYWxzLmN1cnZlbm90ZS5jb20iLCJleHAiOjE3NTk2Nzk3MTAsImF1ZCI6InNjaXB5Iiwic2NvcGUiOiJzdWJtaXNzaW9uIiwic2NvcGVJZCI6IjAxOTkxZWM0LTdmNDAtN2ZkNi1hZDA4LWQyNTkyNWU1YjE4YyIsImlhdCI6MTc1OTI0NzcxMH0.OcOswa3B8L50GuZG2y60J67BLAKECxu63eaw1Slz1uI) in SciPy Proceedings 2025..
+
 
 <p align="left">
 </p>
